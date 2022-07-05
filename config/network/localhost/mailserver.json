@@ -1,24 +1,24 @@
 [
     {
-        "from": "anonymousbud@24571",
+        "from": "anonymousbud@Node56",
         "to": ["RuneScraper5"],
         "title": "I Miss You Rein",
-        "body": "I've been trying to hold myself over... I've made little dolls of you. I've been tearing off their limbs, doing controlled burns, dumping them in acid, and so so so SO much more. They help me come out with all the ways I can make your final moments the worst of your life. It feels unfair though, talking about them through this messanger system. Keep an eye out in Copper City, I sent a little package for you. A gift for whats to come, xoxo."
+        "body": "I haven't seen you in so long. It's given me a lot of time to think. I've been making little dolls of you, testing out all the little ideas that have popped in my head over the years. They help tide the gap between when we meet. But not for much longer... expect a gift when you get in Copper City. See you soon Rein." 
     },
     {
-        "from": "anonymousbud@745182",
+        "from": "anonymousbud",
         "to": ["RuneScraper5"],
         "title": "Fuck you",
         "body": "Everyone's glad you left, fuck you."
     },
     {
-        "from": "anonymousbud@745182",
+        "from": "anonymousbud",
         "to": ["RuneScraper5"],
         "title": "An invitation to the Royal Ball in The Copper Amphitheater",
         "body": "Did you really think this was serious? Fuck you."
     },
     {
-        "from": "anonymousbud@745182",
+        "from": "anonymousbud",
         "to": ["RuneScraper5"],
         "title": "Dont Return",
         "body": "No one wants you here, never come back."
@@ -27,13 +27,31 @@
         "from": "Gillard's Growth",
         "to": ["cress11", "vortex.of.steel", "lokcoatl", "RuneScraper5", "Leeyuhbeeyuh"],
         "title": "Get Some Growth!",
-        "body": "Not getting enough growth down there? Maybe you want girth in the first place? Maybe want a bigger rump? Gillard's got your answer, come on down to Copper Cities finest elixirs of growth."
+        "body": "Not got enough girth? Ass too small? Gillards got the thing for you. Ladies will RUN to you after using my elixir. And any man will be your puppet with a little of my Elixir. Located throughout Copper City."
     },
     {
         "from": "B",
         "to": ["vortex.of.steel"],
         "title": "Is this you?",
-        "body": "Things are messy back here... please let me know youre safe. I'm going to be busy for a while, don't know when I can send a message to you again. I didn't have much time to tell you about Copper City, and even now there's too much to tell. Just know it's out of reach of The Free Cities... but it's still dangerous. Stay safe, for me, okay?"
+        "body": "Things are messy back here... please let me know youre safe. I'm going to be busy for a while, don't know when I can send a message to you again. I didn't have much time to tell you about Copper City, just know it isn't safe. Find some friends and please... stay safe for me, okay?"
+    },
+    {
+        "from": "anonymousbud",
+        "to": ["cress11"],
+        "title": "Need the Legion back in Lij",
+        "body": "No ones caught a wift of anyone in the Legion for a long time, don't know if your groups retired, but there's been some developments in Lij. All kinds of people looking for your groups kind of talents back here. Just go back to you know where and I can grease some gears."
+    },
+    {
+        "from": "anonymous@azul",
+        "to": ["cress11"],
+        "title": "Where does the little Fian go now?",
+        "body": "I heard you were doing escort work, my how the mighty has fallen. The ruthless investigator of Azul... life torn asunder for an ancient tale. It warms my heart to know you resorted to being an escort for work and are now on the run. But where to my little Fian, where to..."
+    },
+    {
+        "from": "Zikoa",
+        "to": ["lokcoatl"],
+        "title": "Good luck old man",
+        "body": "You'll need it. You don't have the chief holding your hand anymore, you're in the big world. I bet you aint gonna last long but I hope to hear or see you one day. Father Tree knows you'll hear about me."
     },
     {
         "from": "Davit",
@@ -41,4 +59,5 @@
         "title": "Hope you are well",
         "body": "I haven't seen you in years. I was helping out a student recently who reminded me of you... they are very ambitious, in an unwavering way. I couldn't do it again, not after what's happened with you. I hope you've realized the greater things in life or take your work less seriously. Most of all I hope you're safe."
     }
+
 ]
